@@ -2,7 +2,7 @@
 This is a Python script for automating TAP=TAP clicks
 
 Support multiple accounts and auto refresh JWT.
-#### Register: https://t.me/onchaincoin_bot?start=user_6465178420
+#### Register: https://bit.ly/3XxJiwz
 
 ### This is recoded script! ( Add auto refresh JWT )
 #### ORIGINAL SCRIPT BY WINNODE: https://github.com/Winnode/rante-tap
@@ -12,7 +12,7 @@ Support multiple accounts and auto refresh JWT.
 - ```pip install -r requirements.txt```
 ## Usage
 ![Get Token](https://github.com/im-hanzou/onchain-auto/blob/main/onchain.png)
-- Open app or register: https://t.me/onchaincoin_bot?start=user_6465178420
+- Open app or register: https://bit.ly/3XxJiwz
 - Enable Telegram Webview Inspecting. Go to Settings > Advanced > Experimental settings > Enable webview inspection.
 on Windows and Linux, right-click in the WebView and choose Inspect.
 - Inspect your Mini App windows.
