@@ -1,5 +1,5 @@
 # ONCHAIN AUTO 
-This is a Python script for automating TAP=TAP clicks on the WInnode Project platform. 
+This is a Python script for automating TAP=TAP clicks
 
 Support multiple accounts and auto refresh JWT.
 #### Register: https://t.me/onchaincoin_bot?start=user_6465178420
